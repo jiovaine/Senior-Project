@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 6b97022a3bcf5e74286bf636ea38fcc6
+timeCreated: 1516811624
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armads1
+    100002: Armads:AxeBack
+    100004: Armads:AxeEnd
+    100006: Armads:AxeHead
+    100008: Armads:pCube1
+    100010: Base
+    100012: Building
+    100014: camera1
+    100016: Column10
+    100018: Column11
+    100020: Column15
+    100022: Column17
+    100024: Column18
+    100026: Column19
+    100028: Column20
+    100030: Column21
+    100032: Column22
+    100034: Column23
+    100036: curve1
+    100038: falchion4:pCube2
+    100040: falchion4:pCube3
+    100042: falchion4:pCube4
+    100044: falchion4:pSphere1
+    100046: falchion4:pSphere2
+    100048: falchion4:pSphere3
+    100050: falchion4:pSphere4
+    100052: Gifs
+    100054: GlassCeiling
+    100056: Gravidus
+    100058: GravidusGif
+    100060: GravidusGif1
+    100062: GravidusGif2
+    100064: GravidusGif3
+    100066: group1
+    100068: group2
+    100070: group3
+    100072: group4
+    100074: group4_pPipe2
+    100076: group5
+    100078: group6
+    100080: MasterSword1
+    100082: //RootNode
+    100084: pCube1
+    100086: pCube2
+    100088: pCube2_MeshPart0
+    100090: pCube2_MeshPart1
+    100092: pCube4
+    100094: pCube4_MeshPart0
+    100096: pCube4_MeshPart1
+    100098: pCylinder40
+    100100: pCylinder41
+    100102: pCylinder42
+    100104: pCylinder43
+    100106: pCylinder44
+    100108: pCylinder45
+    100110: pCylinder46
+    100112: pCylinder47
+    100114: pCylinder48
+    100116: pCylinder55
+    100118: pCylinder56
+    100120: pCylinder57
+    100122: pCylinder65
+    100124: pCylinder65 1
+    100126: pCylinder65 2
+    100128: pCylinder65 3
+    100130: pCylinder65 4
+    100132: pCylinder66
+    100134: pCylinder66 1
+    100136: pCylinder66 2
+    100138: pCylinder66 3
+    100140: pCylinder66 4
+    100142: pCylinder67
+    100144: pCylinder67 1
+    100146: pCylinder67 2
+    100148: pCylinder67 3
+    100150: pCylinder67 4
+    100152: pCylinder69
+    100154: pCylinder70
+    100156: pCylinder71
+    100158: pCylinder72
+    100160: pCylinder73
+    100162: pCylinder74
+    100164: pCylinder75
+    100166: pCylinder76
+    100168: Pedestal
+    100170: Pedestal1
+    100172: Pedestal2
+    100174: Pedestal3
+    100176: Pillars
+    100178: polySurface1
+    100180: polySurface2
+    100182: polySurface3
+    100184: polySurface4
+    100186: polySurface5
+    100188: polySurface6
+    100190: polySurface7
+    100192: pPipe1
+    100194: pPipe1 1
+    100196: pPipe1 2
+    100198: pPipe1 3
+    100200: pPipe1 4
+    100202: pPipe2
+    100204: pPipe2 1
+    100206: pPipe2 2
+    100208: pPipe2 3
+    100210: pPipe2 4
+    100212: Stairs
+    100214: Stairs1
+    100216: Stairs2
+    100218: Stairs3
+    100220: Stairs4
+    100222: Stairs5
+    100224: transform10
+    100226: transform11
+    100228: transform12
+    100230: transform13
+    100232: transform14
+    100234: transform15
+    100236: transform16
+    100238: transform17
+    100240: transform18
+    100242: transform19
+    100244: transform20
+    100246: transform21
+    100248: transform22
+    100250: transform23
+    100252: transform24
+    100254: transform25
+    100256: transform26
+    100258: transform27
+    100260: transform28
+    100262: transform29
+    100264: transform30
+    100266: transform31
+    100268: transform32
+    100270: transform5
+    100272: transform6
+    100274: transform7
+    100276: transform8
+    100278: transform9
+    400000: Armads1
+    400002: Armads:AxeBack
+    400004: Armads:AxeEnd
+    400006: Armads:AxeHead
+    400008: Armads:pCube1
+    400010: Base
+    400012: Building
+    400014: camera1
+    400016: Column10
+    400018: Column11
+    400020: Column15
+    400022: Column17
+    400024: Column18
+    400026: Column19
+    400028: Column20
+    400030: Column21
+    400032: Column22
+    400034: Column23
+    400036: curve1
+    400038: falchion4:pCube2
+    400040: falchion4:pCube3
+    400042: falchion4:pCube4
+    400044: falchion4:pSphere1
+    400046: falchion4:pSphere2
+    400048: falchion4:pSphere3
+    400050: falchion4:pSphere4
+    400052: Gifs
+    400054: GlassCeiling
+    400056: Gravidus
+    400058: GravidusGif
+    400060: GravidusGif1
+    400062: GravidusGif2
+    400064: GravidusGif3
+    400066: group1
+    400068: group2
+    400070: group3
+    400072: group4
+    400074: group4_pPipe2
+    400076: group5
+    400078: group6
+    400080: MasterSword1
+    400082: //RootNode
+    400084: pCube1
+    400086: pCube2
+    400088: pCube2_MeshPart0
+    400090: pCube2_MeshPart1
+    400092: pCube4
+    400094: pCube4_MeshPart0
+    400096: pCube4_MeshPart1
+    400098: pCylinder40
+    400100: pCylinder41
+    400102: pCylinder42
+    400104: pCylinder43
+    400106: pCylinder44
+    400108: pCylinder45
+    400110: pCylinder46
+    400112: pCylinder47
+    400114: pCylinder48
+    400116: pCylinder55
+    400118: pCylinder56
+    400120: pCylinder57
+    400122: pCylinder65
+    400124: pCylinder65 1
+    400126: pCylinder65 2
+    400128: pCylinder65 3
+    400130: pCylinder65 4
+    400132: pCylinder66
+    400134: pCylinder66 1
+    400136: pCylinder66 2
+    400138: pCylinder66 3
+    400140: pCylinder66 4
+    400142: pCylinder67
+    400144: pCylinder67 1
+    400146: pCylinder67 2
+    400148: pCylinder67 3
+    400150: pCylinder67 4
+    400152: pCylinder69
+    400154: pCylinder70
+    400156: pCylinder71
+    400158: pCylinder72
+    400160: pCylinder73
+    400162: pCylinder74
+    400164: pCylinder75
+    400166: pCylinder76
+    400168: Pedestal
+    400170: Pedestal1
+    400172: Pedestal2
+    400174: Pedestal3
+    400176: Pillars
+    400178: polySurface1
+    400180: polySurface2
+    400182: polySurface3
+    400184: polySurface4
+    400186: polySurface5
+    400188: polySurface6
+    400190: polySurface7
+    400192: pPipe1
+    400194: pPipe1 1
+    400196: pPipe1 2
+    400198: pPipe1 3
+    400200: pPipe1 4
+    400202: pPipe2
+    400204: pPipe2 1
+    400206: pPipe2 2
+    400208: pPipe2 3
+    400210: pPipe2 4
+    400212: Stairs
+    400214: Stairs1
+    400216: Stairs2
+    400218: Stairs3
+    400220: Stairs4
+    400222: Stairs5
+    400224: transform10
+    400226: transform11
+    400228: transform12
+    400230: transform13
+    400232: transform14
+    400234: transform15
+    400236: transform16
+    400238: transform17
+    400240: transform18
+    400242: transform19
+    400244: transform20
+    400246: transform21
+    400248: transform22
+    400250: transform23
+    400252: transform24
+    400254: transform25
+    400256: transform26
+    400258: transform27
+    400260: transform28
+    400262: transform29
+    400264: transform30
+    400266: transform31
+    400268: transform32
+    400270: transform5
+    400272: transform6
+    400274: transform7
+    400276: transform8
+    400278: transform9
+    2300000: Armads:AxeBack
+    2300002: Armads:AxeEnd
+    2300004: Armads:AxeHead
+    2300006: Armads:pCube1
+    2300008: Base
+    2300010: Building
+    2300012: Column10
+    2300014: Column11
+    2300016: Column15
+    2300018: Column17
+    2300020: Column18
+    2300022: Column19
+    2300024: Column20
+    2300026: Column21
+    2300028: Column22
+    2300030: Column23
+    2300032: falchion4:pCube2
+    2300034: falchion4:pCube3
+    2300036: falchion4:pCube4
+    2300038: falchion4:pSphere1
+    2300040: falchion4:pSphere2
+    2300042: falchion4:pSphere3
+    2300044: falchion4:pSphere4
+    2300046: GlassCeiling
+    2300048: GravidusGif
+    2300050: GravidusGif1
+    2300052: GravidusGif2
+    2300054: GravidusGif3
+    2300056: pCube2_MeshPart0
+    2300058: pCube2_MeshPart1
+    2300060: pCube4_MeshPart0
+    2300062: pCube4_MeshPart1
+    2300064: pCylinder40
+    2300066: pCylinder41
+    2300068: pCylinder42
+    2300070: pCylinder43
+    2300072: pCylinder44
+    2300074: pCylinder45
+    2300076: pCylinder46
+    2300078: pCylinder47
+    2300080: pCylinder48
+    2300082: pCylinder55
+    2300084: pCylinder56
+    2300086: pCylinder57
+    2300088: pCylinder69
+    2300090: pCylinder70
+    2300092: pCylinder71
+    2300094: pCylinder72
+    2300096: pCylinder73
+    2300098: pCylinder74
+    2300100: pCylinder75
+    2300102: pCylinder76
+    2300104: Pedestal
+    2300106: Pedestal1
+    2300108: Pedestal2
+    2300110: Pedestal3
+    2300112: polySurface1
+    2300114: polySurface2
+    2300116: polySurface3
+    2300118: polySurface4
+    2300120: polySurface5
+    2300122: polySurface6
+    2300124: polySurface7
+    2300126: Stairs1
+    2300128: Stairs2
+    2300130: Stairs3
+    2300132: Stairs4
+    2300134: Stairs5
+    3300000: Armads:AxeBack
+    3300002: Armads:AxeEnd
+    3300004: Armads:AxeHead
+    3300006: Armads:pCube1
+    3300008: Base
+    3300010: Building
+    3300012: Column10
+    3300014: Column11
+    3300016: Column15
+    3300018: Column17
+    3300020: Column18
+    3300022: Column19
+    3300024: Column20
+    3300026: Column21
+    3300028: Column22
+    3300030: Column23
+    3300032: falchion4:pCube2
+    3300034: falchion4:pCube3
+    3300036: falchion4:pCube4
+    3300038: falchion4:pSphere1
+    3300040: falchion4:pSphere2
+    3300042: falchion4:pSphere3
+    3300044: falchion4:pSphere4
+    3300046: GlassCeiling
+    3300048: GravidusGif
+    3300050: GravidusGif1
+    3300052: GravidusGif2
+    3300054: GravidusGif3
+    3300056: pCube2_MeshPart0
+    3300058: pCube2_MeshPart1
+    3300060: pCube4_MeshPart0
+    3300062: pCube4_MeshPart1
+    3300064: pCylinder40
+    3300066: pCylinder41
+    3300068: pCylinder42
+    3300070: pCylinder43
+    3300072: pCylinder44
+    3300074: pCylinder45
+    3300076: pCylinder46
+    3300078: pCylinder47
+    3300080: pCylinder48
+    3300082: pCylinder55
+    3300084: pCylinder56
+    3300086: pCylinder57
+    3300088: pCylinder69
+    3300090: pCylinder70
+    3300092: pCylinder71
+    3300094: pCylinder72
+    3300096: pCylinder73
+    3300098: pCylinder74
+    3300100: pCylinder75
+    3300102: pCylinder76
+    3300104: Pedestal
+    3300106: Pedestal1
+    3300108: Pedestal2
+    3300110: Pedestal3
+    3300112: polySurface1
+    3300114: polySurface2
+    3300116: polySurface3
+    3300118: polySurface4
+    3300120: polySurface5
+    3300122: polySurface6
+    3300124: polySurface7
+    3300126: Stairs1
+    3300128: Stairs2
+    3300130: Stairs3
+    3300132: Stairs4
+    3300134: Stairs5
+    4300000: Building
+    4300002: polySurface1
+    4300004: polySurface2
+    4300006: polySurface3
+    4300008: polySurface4
+    4300010: polySurface5
+    4300012: Pedestal
+    4300014: polySurface6
+    4300016: polySurface7
+    4300018: GlassCeiling
+    4300020: Base
+    4300022: Armads:AxeEnd
+    4300024: Armads:AxeBack
+    4300026: Armads:AxeHead
+    4300028: Armads:pCube1
+    4300030: Stairs5
+    4300032: Stairs1
+    4300034: Stairs2
+    4300036: Stairs4
+    4300038: Stairs3
+    4300040: pCylinder57
+    4300042: pCylinder56
+    4300044: pCylinder55
+    4300046: pCylinder48
+    4300048: pCylinder45
+    4300050: Column10
+    4300052: Column11
+    4300054: Column15
+    4300056: pCylinder47
+    4300058: pCylinder46
+    4300060: pCylinder41
+    4300062: pCylinder40
+    4300064: pCylinder44
+    4300066: pCylinder43
+    4300068: pCylinder42
+    4300070: Column17
+    4300072: Column19
+    4300074: Column18
+    4300076: Column20
+    4300078: pCylinder69
+    4300080: pCylinder70
+    4300082: Column21
+    4300084: pCylinder71
+    4300086: pCylinder72
+    4300088: Column22
+    4300090: pCylinder73
+    4300092: pCylinder74
+    4300094: Column23
+    4300096: pCylinder75
+    4300098: pCylinder76
+    4300100: GravidusGif1
+    4300102: GravidusGif
+    4300104: GravidusGif2
+    4300106: GravidusGif3
+    4300108: pCube2_MeshPart0
+    4300110: pCube2_MeshPart1
+    4300112: pCube4_MeshPart0
+    4300114: pCube4_MeshPart1
+    4300116: Pedestal1
+    4300118: Pedestal2
+    4300120: Pedestal3
+    4300122: falchion4:pSphere1
+    4300124: falchion4:pCube2
+    4300126: falchion4:pCube3
+    4300128: falchion4:pSphere2
+    4300130: falchion4:pSphere3
+    4300132: falchion4:pCube4
+    4300134: falchion4:pSphere4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

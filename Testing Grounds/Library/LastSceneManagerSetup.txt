@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/sharon/Downloads/Space SHMUP Prototype/Space SHMUP Prototype/Assets/_Scene_0.unity
+  isLoaded: 1
+  isActive: 1
